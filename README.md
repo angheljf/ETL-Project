@@ -38,3 +38,4 @@ o	These are two relational databases
 
 ![ERD](Images/Pokemon_ERD.png)
 
+![final](Images/final_table.PNG)
